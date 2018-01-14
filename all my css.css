@@ -1,0 +1,58 @@
+	.box {
+	background-color: lightblue;
+	width: 250px;
+	border: 5px solid blue;
+	padding: 25px;
+	margin: 5px;
+}
+	.box1 {
+	background-color: lightblue;
+	width: 750px;
+	border: 5px solid blue;
+	padding: 25px;
+	margin: 5px;
+}
+	.box2 {
+	width: 500px;
+	padding: 5px;
+	margin: 5px;
+	float:right;
+	margin-right:-25;
+	margin-top:-270;
+}
+	.button {
+	Background-color: #cc0000;
+	border: none;
+	color: white;
+	padding: 10px 21px
+	text-align: center;
+	text-decoration: none;
+	display: inline-block
+	font-size: 16px;
+	border-radius: 8px;
+}
+	p.one {
+	border: 2px solid blue;
+	border-radius: 8px;
+			
+}
+	p.two {
+	border: 2px solid purple;
+	border-radius: 8px;
+}
+	p.three {
+	border: 2px solid blue;
+	border-radius: 4px;
+}
+	table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th, td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+
+tr:hover {background-color:#006699;}
